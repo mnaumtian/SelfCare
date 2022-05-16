@@ -110,6 +110,7 @@
     </None>
     <None Include="packages.config" />
     <Content Include="Views\Login\Index.cshtml" />
+    <None Include="Properties\PublishProfiles\registry.hub.docker.com_mnaumtian.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
